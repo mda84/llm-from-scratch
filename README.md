@@ -63,6 +63,9 @@ llm-from-scratch/
 | `04_train_encoder_decoder.ipynb` | Train T5/BART-style seq2seq model |
 | `05_reward_model_training.ipynb` | Train a reward model on preference pairs |
 | `06_rlhf_training.ipynb` | Fine-tune model with PPO and reward feedback |
+| `07_compare_rope_kvcache.ipynb` | Compare text generation with/without Rotary Embeddings and KV Cache |
+| `08_train_decoder_with_moe.ipynb` | Train GPT-style model using Mixture of Experts on multi-domain data |
+| `09_finetune_with_lora.ipynb` | Fine-tune decoder model using LoRA adapters (parameter-efficient) |
 
 ---
 
