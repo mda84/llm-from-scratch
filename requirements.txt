@@ -1,0 +1,17 @@
+# requirements.txt
+
+# Core
+torch>=1.12.0
+transformers>=4.30.0
+tqdm
+
+# Optional utilities
+numpy
+scipy
+
+# For experiment tracking or logging (optional)
+# wandb
+
+# If using Jupyter or notebooks for testing
+# jupyter
+# matplotlib
