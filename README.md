@@ -43,6 +43,9 @@ llm-from-scratch/
 │   ├── 04_train_encoder_decoder.ipynb
 │   ├── 05_reward_model_training.ipynb
 │   ├── 06_rlhf_training.ipynb
+│   ├── 07_compare_rope_kvcache.ipynb
+│   ├── 08_train_decoder_with_moe.ipynb
+│   ├── 09_finetune_with_lora.ipynb
 ├── train.py
 ├── generate.py
 ├── requirements.txt
